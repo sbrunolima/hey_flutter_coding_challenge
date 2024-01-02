@@ -11,6 +11,7 @@ import '../home_screen/dummy_searchbar_widget.dart';
 import '../home_screen/all_real_estate_list.dart';
 import '../home_screen/scored_real_estate_list.dart';
 import '../home_screen/popular_selector_wiidget.dart';
+import '../home_screen/advertisement_container.dart';
 
 class HomeScreen extends StatefulWidget {
   static const routeName = '/home-screen';
@@ -53,6 +54,8 @@ class _HomeScreenState extends State<HomeScreen> {
             children: [
               sizedBox,
               DummySearchBarWidget(),
+              sizedBox,
+              AdvertisementContainer(),
               sizedBox,
               ScoredRealEstateList(realEstates: scoredRealEstates),
               sizedBox,
