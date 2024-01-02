@@ -1,0 +1,143 @@
+{
+  "00": {
+    "realEstateImageUrl": [
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1259i215%2Ftg8497kgfpjnm8ejt5dmqy5g23i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1259i215%2Fdpvgp7pbrcgs4vjyqf8dr7n4r2i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1259i215%2Ftshjmygsbz0nmdyhkc7hfvxac6i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1259i215%2Ftps26as4ddcq4ry2kqt4g7ha72i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1259i215%2Fcb9ddgjj0ra64fet5bg1993jj6i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1259i215%2Fm6ptftnjb0h8m2eh9fdwhdden7i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1259i215%2Fgyp233rxzyp6me6bzd2hxfqtc3i215&option=N&permitphotoenlargement=false&w=1600"
+    ],
+    "realEstateName": "What is Lorem Ipsum?",
+    "realEstateDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "realEstatePrice": "300",
+    "realEstateMapLocation": "https://developers.google.com/static/maps/images/landing/hero_maps_static_api.png",
+    "realEstateRoomsSize": 4,
+    "stars": 3.8,
+    "isFavorite": false
+  },
+  "01": {
+    "realEstateImageUrl": [
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1194i215%2Fkrbqm4mqykgwmdycckq4fmdtv2i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1194i215%2F9efzmnt0w4damvpe0dr3wjb1j3i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1194i215%2F4yyb6dwdfqwsmre5tskjbas9w4i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1194i215%2Fhjn9kqh76pg2my6xkcg01g6ae6i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1194i215%2Fxt5f3h4w20xh4sav84fy832zy2i215&option=N&permitphotoenlargement=false&w=1600"
+    ],
+    "realEstateName": "What is Lorem Ipsum?",
+    "realEstateDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "realEstatePrice": "325",
+    "realEstateMapLocation": "https://developers.google.com/static/maps/images/landing/hero_maps_static_api.png",
+    "realEstateRoomsSize": 2,
+    "stars": 3.2,
+    "isFavorite": true
+  },
+  "02": {
+    "realEstateImageUrl": [
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fakq5m7da3sr3mzpj5gxxvbgr17i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fjchk29pq57re4dth80hcxj84f4i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fyc0gmx00fjd0msye7xfz6jrac1i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fds4bvga3pk0xmb6v0z5fh8g0x3i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fk8mz6c256p76mhe850qgfc54j0i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fyf07e94e39zqmdjn4ztskd5kz1i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fehky6brbtvm5mgp56g9hae1c65i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2F6qywhbkk20xs41em4vnyzzb5z4i215&option=N&permitphotoenlargement=false&w=1600"
+    ],
+    "realEstateName": "What is Lorem Ipsum?",
+    "realEstateDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "realEstatePrice": "150",
+    "realEstateMapLocation": "https://developers.google.com/static/maps/images/landing/hero_maps_static_api.png",
+    "realEstateRoomsSize": 4,
+    "stars": 2.0,
+    "isFavorite": false
+  },
+  "03": {
+    "realEstateImageUrl": [
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2F7h9pgrhyppgbm4j43v3k4g0w67i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fzgqsq0efedcmmya4qdffn2bdg0i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2F00sd8p3jj64kmtpq0f2y20gr84i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Frj2eg213vzmjmq6nknmhmksez5i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fe88qvdcre96d46ydee2f37qk12i215&option=N&permitphotoenlargement=false&w=1600",
+      "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1253i215%2Fq8b6hzvbfx8fme2rb07tmynze4i215&option=N&permitphotoenlargement=false&w=1600"
+    ],
+    "realEstateName": "What is Lorem Ipsum?",
+    "realEstateDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "realEstatePrice": "435",
+    "realEstateMapLocation": "https://developers.google.com/static/maps/images/landing/hero_maps_static_api.png",
+    "realEstateRoomsSize": 3,
+    "stars": 5.0,
+    "isFavorite": true
+  },
+  "04": {
+    "realEstateImageUrl": [
+      "https://ap.rdcpix.com/0910bccaef3eb2334a9c210129771860l-m2702505581od-w1024_h768_x2.webp",
+      "https://ap.rdcpix.com/0910bccaef3eb2334a9c210129771860l-m786681873od-w1024_h768_x2.webp",
+      "https://ap.rdcpix.com/0910bccaef3eb2334a9c210129771860l-m3760551689od-w1024_h768_x2.webp",
+      "https://ap.rdcpix.com/0910bccaef3eb2334a9c210129771860l-m3433798643od-w1024_h768_x2.webp",
+      "https://ap.rdcpix.com/0910bccaef3eb2334a9c210129771860l-m2277600316od-w1024_h768_x2.webp",
+      "https://ap.rdcpix.com/0910bccaef3eb2334a9c210129771860l-m286043257od-w1024_h768_x2.webp",
+      "https://ap.rdcpix.com/0910bccaef3eb2334a9c210129771860l-m3941684791od-w1024_h768_x2.webp"
+    ],
+    "realEstateName": "What is Lorem Ipsum?",
+    "realEstateDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "realEstatePrice": "126",
+    "realEstateMapLocation": "https://developers.google.com/static/maps/images/landing/hero_maps_static_api.png",
+    "realEstateRoomsSize": 4,
+    "stars": 3.0,
+    "isFavorite": true
+  },
+  "05": {
+    "realEstateImageUrl": [
+      "https://images.theagencyre.com/production/images/listing/2862555/v1662808796/original/0x1200/listing_2862555_0",
+      "https://images.theagencyre.com/production/images/listing/2862555/v1662808796/original/0x1200/listing_2862555_2",
+      "https://images.theagencyre.com/production/images/listing/2862555/v1662808796/original/0x1200/listing_2862555_4",
+      "https://images.theagencyre.com/production/images/listing/2862555/v1662808796/original/0x1200/listing_2862555_7",
+      "https://images.theagencyre.com/production/images/listing/2862555/v1662808796/original/0x1200/listing_2862555_10",
+      "https://images.theagencyre.com/production/images/listing/2862555/v1662808796/original/0x1200/listing_2862555_11",
+      "https://images.theagencyre.com/production/images/listing/2862555/v1662808796/original/0x1200/listing_2862555_12"
+    ],
+    "realEstateName": "What is Lorem Ipsum?",
+    "realEstateDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "realEstatePrice": "235",
+    "realEstateMapLocation": "https://developers.google.com/static/maps/images/landing/hero_maps_static_api.png",
+    "realEstateRoomsSize": 2,
+    "stars": 4.5,
+    "isFavorite": true
+  },
+  "06": {
+    "realEstateImageUrl": [
+      "https://images.theagencyre.com/production/images/listing/4964469/v1688033613/original/0x1200/listing_4964469_2",
+      "https://images.theagencyre.com/production/images/listing/4964469/v1688033613/original/0x1200/listing_4964469_3",
+      "https://images.theagencyre.com/production/images/listing/4964469/v1688033613/original/0x1200/listing_4964469_4",
+      "https://images.theagencyre.com/production/images/listing/4964469/v1688033613/original/0x1200/listing_4964469_5"
+    ],
+    "realEstateName": "What is Lorem Ipsum?",
+    "realEstateDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "realEstatePrice": "359",
+    "realEstateMapLocation": "https://developers.google.com/static/maps/images/landing/hero_maps_static_api.png",
+    "realEstateRoomsSize": 5,
+    "stars": 5.0,
+    "isFavorite": false
+  },
+  "07": {
+    "realEstateImageUrl": [
+      "https://www.homely.com.au/img-resize/l-LockedOn-9735597-32.jpg?width=1472&height=982&fit=cover&quality=60&version=.BnyV4FQLkox1k5SRwKRdMgtLCqXLWNG",
+      "https://www.homely.com.au/img-resize/l-LockedOn-9735597-25.jpg?width=1472&height=982&fit=cover&quality=60&version=TdJICP7EhRVUizjyPtQS0nmV.g3G8.ym",
+      "https://www.homely.com.au/img-resize/l-LockedOn-9735597-1.jpg?width=1472&height=982&fit=cover&quality=60&version=Laxj3GCr5qGoUVcemxODqy3FAivRSALM",
+      "https://www.homely.com.au/img-resize/l-LockedOn-9735597-5.jpg?width=1472&height=982&fit=cover&quality=60&version=xV7nF30FZiOVx17DQzEDcZwnuaIw8Q5Z",
+      "https://www.homely.com.au/img-resize/l-LockedOn-9735597-7.jpg?width=1472&height=982&fit=cover&quality=60&version=hBy.pBg034nXtIdkXbeGq3waf1wpkqJs",
+      "https://www.homely.com.au/img-resize/l-LockedOn-9735597-10.jpg?width=1472&height=982&fit=cover&quality=60&version=Npsq6tQ7cEL4yVA_u18ZEVBElk2Lzyz0",
+      "https://www.homely.com.au/img-resize/l-LockedOn-9735597-12.jpg?width=1472&height=982&fit=cover&quality=60&version=lKxLijDUfPLzgT72vaiwYdBpF0TFphXA",
+      "https://www.homely.com.au/img-resize/l-LockedOn-9735597-18.jpg?width=1472&height=982&fit=cover&quality=60&version=yzsfDWJ63Dyc9kzkAzAaApbevZDXevJ7",
+      "https://www.homely.com.au/img-resize/l-LockedOn-9735597-22.jpg?width=1472&height=982&fit=cover&quality=60&version=UnmaiN08qOLwdrs95gu2dYU9gbzCDfDU"
+    ],
+    "realEstateName": "What is Lorem Ipsum?",
+    "realEstateDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "realEstatePrice": "298",
+    "realEstateMapLocation": "https://developers.google.com/static/maps/images/landing/hero_maps_static_api.png",
+    "realEstateRoomsSize": 3,
+    "stars": 4.1,
+    "isFavorite": true
+  }
+}
